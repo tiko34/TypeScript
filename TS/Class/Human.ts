@@ -11,6 +11,6 @@ class Human {
         this.sex=sex;
     }
 }
+//let user:Human= new Human("Ben","Ten",15,true);
+//console.log(user);
 
-let user:Human= new Human("Ben","Ten",15,true);
-console.log(user);

@@ -7,5 +7,3 @@ var Human = /** @class */ (function () {
     }
     return Human;
 }());
-var user = new Human("Ben", "Ten", 15, true);
-console.log(user);
